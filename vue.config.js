@@ -1,5 +1,5 @@
-const path = require("path");
-
+﻿const path = require("path");
+// none
 module.exports = {
   // 基本路径
   publicPath: "./",
